@@ -3,7 +3,7 @@
   <h1>Oguz Yenice</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B6FF&center=true&vCenter=true&width=500&lines=Software+Developer;Building+solutions+%26+clean+code;Java+%7C+Backend+%7C+Algorithms" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B6FF&center=true&vCenter=true&width=650&lines=Software+Developer;Backend+Engineering+%26+System+Architecture;Java+%7C+Data+Structures+%7C+Algorithms" alt="Typing SVG" />
   </a>
 
   <br/><br/>
