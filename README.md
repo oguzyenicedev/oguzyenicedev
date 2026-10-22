@@ -7,6 +7,9 @@
  
   <p>
     <img src="https://komarev.com/ghpvc/?username=oguzyenicedev&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+    <a href="https://linkedin.com/in/bahadır-oguz-yenice" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
     <a href="mailto:bhdrogz7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
