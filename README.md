@@ -40,14 +40,6 @@
 
 ---
 
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oguzyenicedev&theme=github-compact&hide_border=true&area=true&color=38b6ff" width="100%" alt="Contribution Graph" />
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
