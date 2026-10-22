@@ -1,7 +1,12 @@
 <div align="center">
 
-  <h1>💻 Oguz | Software Developer</h1>
-  <p><em>Building solutions, algorithms & clean Java code</em></p>
+  <h1>Oguz Yenice</h1>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7B731&center=true&vCenter=true&width=500&lines=Software+Developer;Building+solutions+%26+clean+code;Java+%7C+Backend+%7C+Algorithms" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=oguzyenicedev&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
