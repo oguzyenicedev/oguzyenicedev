@@ -3,7 +3,7 @@
   <h1>Oguz Yenice</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7B731&center=true&vCenter=true&width=500&lines=Software+Developer;Building+solutions+%26+clean+code;Java+%7C+Backend+%7C+Algorithms" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B6FF&center=true&vCenter=true&width=500&lines=Software+Developer;Building+solutions+%26+clean+code;Java+%7C+Backend+%7C+Algorithms" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -43,7 +43,7 @@
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oguzyenicedev&theme=github-compact&hide_border=true&area=true&color=2ea043" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oguzyenicedev&theme=github-compact&hide_border=true&area=true&color=38b6ff" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
