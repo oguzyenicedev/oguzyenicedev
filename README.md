@@ -1,28 +1,51 @@
 <div align="center">
 
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=200&section=header&text=Oguz%20Yenice&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%7C%20Java%20%26%20Backend&descAlignY=60&descAlign=50" width="100%" />
+  <h1>💻 Oguz | Software Developer</h1>
+  <p><em>Building solutions, algorithms & clean Java code</em></p>
 
-  <br/>
-
- 
-  <p align="center">
-    <a href="https://linkedin.com/in/SENIN-LINKEDIN-KULLANICI-ADIN" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=oguzyenicedev&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+    <a href="https://www.linkedin.com/in/bahad%C4%B1r-oguz-yenice-684b83389/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:bhdrogz7@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
 </div>
 
-<br/>
+---
 
-### 📌 About Me
+### 👨‍💻 About Me
 
-```yaml
-name: Oguz Yenice
-education: Yeditepe University - CTIS
-focus: Java, Algorithms & Data Structures
-current_project: java-persistence-patterns
+- 🎓 Studying at **Yeditepe University - CTIS**
+- ☕ Focusing on **Java, Backend Fundamentals & Algorithms**
+- 🛠️ Projects: Working on **`java-persistence-patterns`** & Data Structures
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/bahad%C4%B1r-oguz-yenice-684b83389/)
+- 📫 Reach me at: **bhdrogz7@gmail.com**
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,git,github,mysql,postgres,python" alt="Tech Stack" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oguzyenicedev&theme=github-compact&hide_border=true&area=true&color=2ea043" width="100%" alt="Contribution Graph" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oguzyenicedev&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzyenicedev&layout=compact&theme=tokyonight" alt="Top Langs" height="160" />
+</div>
