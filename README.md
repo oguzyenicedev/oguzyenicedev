@@ -1,16 +1,17 @@
 <div align="center">
 
-  
+
   <h1>💻 Oguz | Software Developer</h1>
   <p><em>Building solutions, algorithms & clean Java code</em></p>
 
- 
   <p>
     <img src="https://komarev.com/ghpvc/?username=oguzyenicedev&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-    <a href="https://linkedin.com/in/bahadır-oguz-yenice" target="_blank">
+    <a href="https://linkedin.com/in/SENIN-LINKEDIN-KULLANICI-ADIN" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:bhdrogz7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:bhdrogz7@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    </a>
   </p>
 
 </div>
@@ -22,6 +23,7 @@
 - 🎓 Studying at **Yeditepe University - CTIS**
 - ☕ Focusing on **Java, Backend Fundamentals & Algorithms**
 - 🛠️ Projects: Working on **`java-persistence-patterns`** & Data Structures
+- 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/SENIN-LINKEDIN-KULLANICI-ADIN)
 - 📫 Reach me at: **bhdrogz7@gmail.com**
 
 ---
@@ -31,6 +33,22 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,maven,git,github,mysql,postgres,python" alt="Tech Stack" />
 </p>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+  <img src="https://ghchart.rshah.org/216e39/oguzyenicedev" alt="Oguz's GitHub Chart" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oguzyenicedev&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
 
 ---
 
