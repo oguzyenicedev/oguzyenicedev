@@ -43,6 +43,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oguzyenicedev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzyenicedev&layout=compact&theme=tokyonight" alt="Top Langs" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oguzyenicedev&theme=tokyonight" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzyenicedev&layout=compact&theme=tokyonight" height="160" alt="Top Langs" />
 </div>
