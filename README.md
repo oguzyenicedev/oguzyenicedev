@@ -40,9 +40,4 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oguzyenicedev&theme=tokyonight" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzyenicedev&layout=compact&theme=tokyonight" height="160" alt="Top Langs" />
-</div>
