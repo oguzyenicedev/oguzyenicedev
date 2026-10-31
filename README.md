@@ -22,8 +22,3 @@
 - Reach me at: **bahadiryeno@gmail.com**
 
 ---
-
-### Tech Stack & Skills
-
-<p align="left">
-  <img src="
