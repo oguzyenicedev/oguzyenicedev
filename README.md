@@ -24,11 +24,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Studying at **Yeditepe University - CTIS**
-- ☕ Focusing on **Java, Python , Backend Fundamentals & Algorithms**
-- 🛠️ Projects: Working on **`java-persistence-patterns`** & Data Structures
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/bahad%C4%B1r-oguz-yenice-684b83389/)
-- 📫 Reach me at: **bhdrogz7@gmail.com**
+- Studying at **Yeditepe University - CTIS**
+- Focusing on **Java, Python , Backend Fundamentals & Algorithms**
+- Projects: Working on **`java-persistence-patterns`** & Data Structures
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/bahad%C4%B1r-oguz-yenice-684b83389/)
+- Reach me at: **bhdrogz7@gmail.com**
 
 ---
 
